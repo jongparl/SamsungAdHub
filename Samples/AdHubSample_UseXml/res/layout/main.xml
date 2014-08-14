@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:adhub="http://schemas.android.com/apk/res/com.sec.android.ad.sample.usexml"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.sec.android.ad.AdHubView
+		android:id="@+id/AdLayout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_gravity="center" 
+		adhub:inventoryId="xv0c000000001q" adhub:adSize="BANNER_640x100" adhub:onlyXml="true" adhub:gender="m" adhub:age="33" adhub:interests="book,internet,game" >
+	</com.sec.android.ad.AdHubView>
+			
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+	<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/caution1" />    
+</LinearLayout>

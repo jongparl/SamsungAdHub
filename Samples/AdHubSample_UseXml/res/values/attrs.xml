@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AdHubView">
+        <attr name="inventoryId" format="string" />
+        <attr name="adSize" format="string" />
+        <attr name="onlyXml" format="boolean" />
+        <attr name="gender" format="string" />
+        <attr name="age" format="integer" />
+        <attr name="interests" format="string" />
+    </declare-styleable>
+</resources>

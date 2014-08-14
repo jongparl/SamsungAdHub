@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="caution1">Enter the Inventory ID that was issued from the Samsung AdHub Portal as the second parameter of AdHubInterstitial.</string>
+	<string name="caution2">*The Interstitial Ad’s Inventory ID was built in a way that it can only receive Interstitial Ads.</string>
+    <string name="hello">Hello World, AdHubSample_InterstitialActivity!</string>
+    <string name="app_name">AdHubSample_Interstitial</string>
+
+</resources>

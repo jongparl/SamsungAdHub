@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="caution1">Enter the Inventory ID that was issued from the Samsung AdHub Portal as the second parameter of the init function.</string>
+    <string name="hello">Hello World, AdHubSample_UseXmlActivity!</string>
+    <string name="app_name">AdHubSample_UseXml</string>
+
+</resources>
